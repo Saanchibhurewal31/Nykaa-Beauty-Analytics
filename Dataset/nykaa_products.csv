@@ -1,0 +1,113 @@
+product_id,product_name,brand,category,price,product_rating
+PROD0001,Minimalist Vitamin C Face Serum,Minimalist,Skincare,1006,3.4
+PROD0002,Dot & Key Vitamin C Face Serum,Dot & Key,Skincare,483,3.9
+PROD0003,MAC Vitamin C Face Serum,MAC,Skincare,1606,3.5
+PROD0004,Dot & Key Niacinamide Serum,Dot & Key,Skincare,1072,3.5
+PROD0005,Biotique Niacinamide Serum,Biotique,Skincare,893,3.4
+PROD0006,Nykaa Cosmetics Hyaluronic Acid Moisturizer,Nykaa Cosmetics,Skincare,1639,3.4
+PROD0007,Biotique Hyaluronic Acid Moisturizer,Biotique,Skincare,995,3.3
+PROD0008,Forest Essentials Hyaluronic Acid Moisturizer,Forest Essentials,Skincare,317,3.2
+PROD0009,NIVEA Sunscreen SPF 50,NIVEA,Skincare,720,4.7
+PROD0010,The Ordinary Sunscreen SPF 50,The Ordinary,Skincare,893,4.7
+PROD0011,Lakme Sunscreen SPF 50,Lakme,Skincare,1528,3.7
+PROD0012,Minimalist Sunscreen SPF 50,Minimalist,Skincare,428,4.6
+PROD0013,Nykaa Cosmetics Foaming Face Wash,Nykaa Cosmetics,Skincare,716,3.8
+PROD0014,Sugar Cosmetics Foaming Face Wash,Sugar Cosmetics,Skincare,1200,4.5
+PROD0015,Biotique Foaming Face Wash,Biotique,Skincare,1295,3.6
+PROD0016,The Ordinary Foaming Face Wash,The Ordinary,Skincare,1150,3.2
+PROD0017,WOW Skin Science Under Eye Cream,WOW Skin Science,Skincare,1699,4.4
+PROD0018,Dot & Key Under Eye Cream,Dot & Key,Skincare,1081,3.6
+PROD0019,The Ordinary Under Eye Cream,The Ordinary,Skincare,1588,3.8
+PROD0020,Maybelline Under Eye Cream,Maybelline,Skincare,1237,3.9
+PROD0021,Biotique Clay Face Mask,Biotique,Skincare,869,4.3
+PROD0022,MAC Clay Face Mask,MAC,Skincare,1685,4.6
+PROD0023,Biotique Retinol Night Cream,Biotique,Skincare,1629,4.1
+PROD0024,MAC Retinol Night Cream,MAC,Skincare,900,3.5
+PROD0025,Forest Essentials Retinol Night Cream,Forest Essentials,Skincare,639,4.3
+PROD0026,Biotique Matte Lipstick,Biotique,Makeup,267,3.4
+PROD0027,Mamaearth Matte Lipstick,Mamaearth,Makeup,1454,3.8
+PROD0028,L'Oreal Paris Matte Lipstick,L'Oreal Paris,Makeup,844,3.3
+PROD0029,Biotique Liquid Foundation,Biotique,Makeup,1007,4.6
+PROD0030,Nykaa Cosmetics Liquid Foundation,Nykaa Cosmetics,Makeup,946,3.8
+PROD0031,WOW Skin Science Liquid Foundation,WOW Skin Science,Makeup,1892,3.8
+PROD0032,Maybelline Liquid Foundation,Maybelline,Makeup,2207,3.7
+PROD0033,Mamaearth Compact Powder,Mamaearth,Makeup,2384,4.3
+PROD0034,WOW Skin Science Compact Powder,WOW Skin Science,Makeup,2004,3.5
+PROD0035,Sugar Cosmetics Kajal Pencil,Sugar Cosmetics,Makeup,526,4.3
+PROD0036,Dot & Key Kajal Pencil,Dot & Key,Makeup,988,3.4
+PROD0037,Mamaearth Kajal Pencil,Mamaearth,Makeup,209,4.1
+PROD0038,The Ordinary Kajal Pencil,The Ordinary,Makeup,477,3.3
+PROD0039,Nykaa Cosmetics Mascara,Nykaa Cosmetics,Makeup,864,4.9
+PROD0040,NIVEA Mascara,NIVEA,Makeup,681,3.4
+PROD0041,Mamaearth Eyeshadow Palette,Mamaearth,Makeup,1516,4.1
+PROD0042,Sugar Cosmetics Eyeshadow Palette,Sugar Cosmetics,Makeup,647,3.5
+PROD0043,WOW Skin Science BB Cream,WOW Skin Science,Makeup,1330,3.9
+PROD0044,Nykaa Cosmetics BB Cream,Nykaa Cosmetics,Makeup,701,4.3
+PROD0045,WOW Skin Science Makeup Setting Spray,WOW Skin Science,Makeup,1690,3.5
+PROD0046,The Ordinary Makeup Setting Spray,The Ordinary,Makeup,532,3.3
+PROD0047,Biotique Anti-Hairfall Shampoo,Biotique,Haircare,665,4.2
+PROD0048,Maybelline Anti-Hairfall Shampoo,Maybelline,Haircare,775,3.9
+PROD0049,Forest Essentials Anti-Hairfall Shampoo,Forest Essentials,Haircare,718,4.2
+PROD0050,Nykaa Cosmetics Hair Serum,Nykaa Cosmetics,Haircare,762,3.3
+PROD0051,WOW Skin Science Hair Serum,WOW Skin Science,Haircare,847,4.1
+PROD0052,Nykaa Cosmetics Onion Hair Oil,Nykaa Cosmetics,Haircare,915,4.2
+PROD0053,Forest Essentials Onion Hair Oil,Forest Essentials,Haircare,1102,4.9
+PROD0054,Dot & Key Onion Hair Oil,Dot & Key,Haircare,181,3.8
+PROD0055,Minimalist Onion Hair Oil,Minimalist,Haircare,967,3.7
+PROD0056,MAC Conditioner,MAC,Haircare,1009,4.4
+PROD0057,The Ordinary Conditioner,The Ordinary,Haircare,735,4.1
+PROD0058,Mamaearth Hair Mask,Mamaearth,Haircare,841,3.6
+PROD0059,Minimalist Hair Mask,Minimalist,Haircare,503,3.8
+PROD0060,Plum Dry Shampoo,Plum,Haircare,512,4.1
+PROD0061,L'Oreal Paris Dry Shampoo,L'Oreal Paris,Haircare,466,4.9
+PROD0062,WOW Skin Science Dry Shampoo,WOW Skin Science,Haircare,769,4.8
+PROD0063,Mamaearth Dry Shampoo,Mamaearth,Haircare,1105,4.5
+PROD0064,The Ordinary Heat Protectant Spray,The Ordinary,Haircare,642,4.4
+PROD0065,Forest Essentials Heat Protectant Spray,Forest Essentials,Haircare,334,4.8
+PROD0066,Forest Essentials Eau De Parfum,Forest Essentials,Fragrance,2975,4.1
+PROD0067,Biotique Eau De Parfum,Biotique,Fragrance,1488,3.5
+PROD0068,Minimalist Eau De Parfum,Minimalist,Fragrance,1193,3.3
+PROD0069,Plum Body Mist,Plum,Fragrance,1765,4.3
+PROD0070,NIVEA Body Mist,NIVEA,Fragrance,2241,3.7
+PROD0071,Maybelline Body Mist,Maybelline,Fragrance,1416,3.6
+PROD0072,The Ordinary Body Mist,The Ordinary,Fragrance,1765,4.5
+PROD0073,Biotique Deodorant Spray,Biotique,Fragrance,2226,3.3
+PROD0074,NIVEA Deodorant Spray,NIVEA,Fragrance,752,4.5
+PROD0075,Forest Essentials Deodorant Spray,Forest Essentials,Fragrance,1648,3.9
+PROD0076,Dot & Key Deodorant Spray,Dot & Key,Fragrance,552,3.6
+PROD0077,Lakme Perfume Roll-On,Lakme,Fragrance,2406,4.6
+PROD0078,Forest Essentials Perfume Roll-On,Forest Essentials,Fragrance,1970,4.3
+PROD0079,L'Oreal Paris Body Lotion,L'Oreal Paris,Bath & Body,653,4.3
+PROD0080,Lakme Shower Gel,Lakme,Bath & Body,152,3.8
+PROD0081,L'Oreal Paris Shower Gel,L'Oreal Paris,Bath & Body,767,3.8
+PROD0082,Sugar Cosmetics Shower Gel,Sugar Cosmetics,Bath & Body,621,4.8
+PROD0083,Minimalist Body Scrub,Minimalist,Bath & Body,446,3.5
+PROD0084,Mamaearth Body Scrub,Mamaearth,Bath & Body,750,3.6
+PROD0085,Sugar Cosmetics Body Scrub,Sugar Cosmetics,Bath & Body,329,4.8
+PROD0086,Sugar Cosmetics Hand Cream,Sugar Cosmetics,Bath & Body,317,4.6
+PROD0087,Dot & Key Hand Cream,Dot & Key,Bath & Body,222,3.4
+PROD0088,Sugar Cosmetics Bath Bombs,Sugar Cosmetics,Bath & Body,669,4.6
+PROD0089,Biotique Bath Bombs,Biotique,Bath & Body,384,4.7
+PROD0090,NIVEA Beard Oil,NIVEA,Men's Grooming,842,4
+PROD0091,WOW Skin Science Beard Oil,WOW Skin Science,Men's Grooming,530,3.6
+PROD0092,Lakme Face Wash for Men,Lakme,Men's Grooming,463,3.4
+PROD0093,Nykaa Cosmetics Face Wash for Men,Nykaa Cosmetics,Men's Grooming,245,3.9
+PROD0094,MAC Face Wash for Men,MAC,Men's Grooming,243,3.3
+PROD0095,The Ordinary Face Wash for Men,The Ordinary,Men's Grooming,269,3.9
+PROD0096,The Ordinary After Shave Balm,The Ordinary,Men's Grooming,520,4.7
+PROD0097,Maybelline After Shave Balm,Maybelline,Men's Grooming,369,3.8
+PROD0098,The Ordinary Hair Wax,The Ordinary,Men's Grooming,241,4
+PROD0099,Forest Essentials Hair Wax,Forest Essentials,Men's Grooming,554,3.6
+PROD0100,Minimalist Hair Wax,Minimalist,Men's Grooming,156,4.7
+PROD0101,Mamaearth Multivitamin Gummies,Mamaearth,Wellness,930,3.9
+PROD0102,MAC Multivitamin Gummies,MAC,Wellness,1278,4.2
+PROD0103,Forest Essentials Multivitamin Gummies,Forest Essentials,Wellness,1146,4.4
+PROD0104,Nykaa Cosmetics Biotin Tablets,Nykaa Cosmetics,Wellness,1259,4.9
+PROD0105,Minimalist Biotin Tablets,Minimalist,Wellness,1068,3.5
+PROD0106,Forest Essentials Herbal Tea,Forest Essentials,Wellness,762,3.3
+PROD0107,Sugar Cosmetics Herbal Tea,Sugar Cosmetics,Wellness,1156,4.3
+PROD0108,The Ordinary Herbal Tea,The Ordinary,Wellness,945,4.9
+PROD0109,L'Oreal Paris Essential Oil,L'Oreal Paris,Wellness,625,3.3
+PROD0110,Nykaa Cosmetics Essential Oil,Nykaa Cosmetics,Wellness,1400,3.9
+PROD0111,Maybelline Essential Oil,Maybelline,Wellness,489,3.8
+PROD0112,NIVEA Essential Oil,NIVEA,Wellness,964,4.3
